@@ -1,7 +1,8 @@
 # KojiKondoCorpus
 
 Taken from ninsheetmusic
-> No ratings under haalf
+> No ratings in the yellow
+
 Franchises
 
 Super Mario
