@@ -1,6 +1,6 @@
 # KojiKondoCorpus
 
-A corpus of musical MIDI cues from Koji Kondo games. Pieces were taken from ninsheet music: We included the cues from 10 games——5 from the Legend of Zelda (143 cues) and 5 from Super Mario (100). Cues were excluded if they were 1) below yellow popularity on the website; 2) shorter than 2 measures; or 3) had audible errors.
+A corpus of musical MIDI cues from Koji Kondo games. Pieces were taken from ninsheet music: We included the cues from 10 games——5 from the Legend of Zelda (143 cues) and 5 from Super Mario (100). Cues were excluded if they were 1) below yellow popularity on the website; 2) shorter than 2 measures; or 3) had audible errors. KKCorpus spreadsheet extracted pitches, pitch classes, tags for each cue (see below), windows (length = six quarter notes), and windowed, normalized DFTs of PCs. 
 
 ## Franchises
 Super Mario
